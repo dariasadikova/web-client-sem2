@@ -28,14 +28,14 @@
 
 
 ![Image alt](scrin_nav.jpg)  
-header>nav.nav>(ul.nav__list>li.nav__item*5>a.nav__link)+img.nav_image+button.nav_button
+header>nav.nav>img.nav__image+(ul.nav__list>li.nav__item*5>a.nav__link)+button.nav__button
 
 ![Image alt](scrin_form.jpg)  
-form.form>(div.form_box>input.form_input)+button.form_button
+form.form>(div.form__box>input.form__input)+button.form__button
 
 ![Image alt](scrin_card.jpg)  
-div.card>(div.card_container>img.card_image)+(div.card_container>h4.card_title+h2.card_text+p.card_text)
+div.card>img.card__image+(div.card__container>h4.card__title+h2.card__text+p.card__text)
 
 ![Image alt](scrin_adv.jpg)    
-div.advantages>h2.advantages_number+p.advantages_text
+div.advantages>h2.advantages__number+span.advantages__text+p.advantages__text
 
