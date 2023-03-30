@@ -37,5 +37,5 @@ form.form>(div.form__box>input.form__input)+button.form__button
 div.card>img.card__image+(div.card__container>h4.card__title+h2.card__text+p.card__text)
 
 ![Image alt](scrin_adv.jpg)    
-div.advantages>h2.advantages__number+span.advantages__text+p.advantages__text
+div.advantages>(h2.advantages__number>span.advantages__text)+p.advantages__text
 
